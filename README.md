@@ -1,13 +1,13 @@
 # Hi, I'm Frank! 😄
 
 
-<a href="https://www.github.com/frangkli">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
-</a>
 
 [![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_3)
 [![School: University of Washington](https://img.shields.io/badge/School-University%20of%20Washington-purple?style=for-the-badge)](https://uw.edu)
 
+<a href="https://www.github.com/frangkli">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
+</a>
 
 - 🔭 I’m currently...
   - 💻 Working on portfolio projects
@@ -15,7 +15,9 @@
   - 🦀 Playing around with rust and elixir
 - 👀 I’m looking to collaborate on software and research projects
 - 💬 Ask me about my anything
-- 📫 How to reach me: frankla0203@outlook.com
+- 📫 How to reach me
+  - Email: frankla0203@outlook.com
+  - LinkedIn: www.linkedin.com/in/anglifrank
 - ⚡ Fun fact: I am from Japan
 - 🔗 Website: Will be published soon
 
