@@ -12,7 +12,6 @@
   - 📄 Conducting ML research
   - 🦀 Playing around with rust and elixir
 - 👀 I’m looking to collaborate on software and research projects
-- 💬 Ask me about my anything
 - 📫 How to reach me
   - Email: frankla0203@outlook.com
   - LinkedIn: www.linkedin.com/in/anglifrank
