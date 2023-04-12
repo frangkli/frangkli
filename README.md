@@ -1,13 +1,11 @@
 # Hi, I'm Frank! 😄
 
-<a href="https://www.github.com/frangkli">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet&langs_count=6" />
-</a>
-
 [![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_3)
 [![School: University of Washington](https://img.shields.io/badge/School-University%20of%20Washington-purple?style=for-the-badge)](https://uw.edu)
 
-
+<a href="https://www.github.com/frangkli">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
+</a>
 
 - 🔭 I’m currently...
   - 💻 Working on portfolio projects
