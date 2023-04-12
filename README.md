@@ -1,4 +1,4 @@
-# Hi, I'm Frank! 😄
+<img src="/github-header-image.png"/>
 
 <a href="https://www.github.com/frangkli">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
