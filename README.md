@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/anglifrank">
-<img src="/github-header-image2.png"/>
+<img src="/github-header-image.png"/>
 </a>
 
 <p></p>
