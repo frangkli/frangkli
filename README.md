@@ -12,12 +12,13 @@
 [![School: University of Washington](https://img.shields.io/badge/School-University%20of%20Washington-purple?style=for-the-badge)](https://uw.edu)
 
 - 🔭 I’m currently...
+  - 🧑‍🎓 A junior student
   - ✍️ Working on portfolio projects
   - 📄 Conducting ML research
   - 🦀 Playing around with rust and elixir
 - ⚡ Fun fact: I am from Japan
-- 👀 I’m looking to collaborate on software and research projects
-- 🥳 Techs I'm excited about:<a href="https://www.github.com/frangkli?tab=repositories&type=source"><img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
+- 👀 I’m looking to collaborate on software and research projects<a href="https://www.github.com/frangkli?tab=repositories&type=source"><img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
+- 🥳 Techs I'm excited about:
   - 💻 Web: Next 13, TRPC, Webassembly
   - 🔧 Systems: Rust, RISC-V, Vulkan, Boost
   - 🤖 AI: Caffe, Vector Databases, Polars
