@@ -1,26 +1,31 @@
 <a href="https://www.linkedin.com/in/anglifrank">
-<img src="/github-header-image.png"/>
+  <img src="/github-header-image.png"/>
 </a>
 
 <p></p>
 
 <a href="https://www.github.com/frangkli?tab=repositories&type=source">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
+  <img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </a>
 
 [![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_3)
 [![School: University of Washington](https://img.shields.io/badge/School-University%20of%20Washington-purple?style=for-the-badge)](https://uw.edu)
+
 
 - 🔭 I’m currently...
   - 💻 Working on portfolio projects
   - 📄 Conducting ML research
   - 🦀 Playing around with rust and elixir
 - 👀 I’m looking to collaborate on software and research projects
-- 📫 How to reach me
+- ⚡ Fun fact: I am from Japan
+- 📫 How to reach me<a href="https://www.github.com/frangkli?tab=repositories&type=source"><img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
   - Email: frankla0203@outlook.com
   - LinkedIn: www.linkedin.com/in/anglifrank
-- ⚡ Fun fact: I am from Japan
 - 🔗 Website: Will be published soon
+
+<!-- <a href="https://www.github.com/frangkli?tab=repositories&type=source">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
+</a> -->
 
 <!--
 ## Technologies
