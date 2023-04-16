@@ -11,9 +11,8 @@
 [![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_3)
 [![School: University of Washington](https://img.shields.io/badge/School-University%20of%20Washington-purple?style=for-the-badge)](https://uw.edu)
 
-
 - 🔭 I’m currently...
-  - 💻 Working on portfolio projects
+  - ✍️ Working on portfolio projects
   - 📄 Conducting ML research
   - 🦀 Playing around with rust and elixir
 - 🔗 Website: www.frangkli.com (WIP)
@@ -21,10 +20,10 @@
 - 📫 How to reach me<a href="https://www.github.com/frangkli?tab=repositories&type=source"><img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
   - Email: frankla0203@outlook.com
   - LinkedIn: www.linkedin.com/in/anglifrank
-- 🔧 Techs I'm excited about:
-  - Web: Next 13, TRPC, Webassembly
-  - Systems: Rust, RISC-V, Vulkan, Boost
-  - AI: Caffe, Vector Databases, Polars
+- 🥳 Techs I'm excited about:
+  - 💻 Web: Next 13, TRPC, Webassembly
+  - 🔧 Systems: Rust, RISC-V, Vulkan, Boost
+  - 🤖 AI: Caffe, Vector Databases, Polars
 - ⚡ Fun fact: I am from Japan
 <!-- <a href="https://www.github.com/frangkli?tab=repositories&type=source">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
