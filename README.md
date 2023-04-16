@@ -15,16 +15,17 @@
   - ✍️ Working on portfolio projects
   - 📄 Conducting ML research
   - 🦀 Playing around with rust and elixir
-- 🔗 Website: www.frangkli.com (WIP)
+- ⚡ Fun fact: I am from Japan
 - 👀 I’m looking to collaborate on software and research projects
-- 📫 How to reach me<a href="https://www.github.com/frangkli?tab=repositories&type=source"><img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
-  - Email: frankla0203@outlook.com
-  - LinkedIn: www.linkedin.com/in/anglifrank
-- 🥳 Techs I'm excited about:
+- 🥳 Techs I'm excited about:<a href="https://www.github.com/frangkli?tab=repositories&type=source"><img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
   - 💻 Web: Next 13, TRPC, Webassembly
   - 🔧 Systems: Rust, RISC-V, Vulkan, Boost
   - 🤖 AI: Caffe, Vector Databases, Polars
-- ⚡ Fun fact: I am from Japan
+- 📫 How to reach me:
+  - Email: frankla0203@outlook.com
+  - LinkedIn: www.linkedin.com/in/anglifrank
+- 🔗 Website: www.frangkli.com (WIP)
+
 <!-- <a href="https://www.github.com/frangkli?tab=repositories&type=source">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangkli&theme=merko&hide=vim%20snippet" />
 </a> -->
