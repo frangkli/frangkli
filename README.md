@@ -7,6 +7,7 @@
 <a href="https://www.github.com/frangkli?tab=repositories&type=source">
   <img align="right" src="https://raw.githubusercontent.com/frangkli/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </a>
+<p style="padding-top:5px;"></p>
 
 [![Age: 19](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_3)
 [![School: University of Washington](https://img.shields.io/badge/School-University%20of%20Washington-purple?style=for-the-badge)](https://uw.edu)
