@@ -22,7 +22,7 @@
 - 🥳 Techs I'm excited about:
   - 💻 Web: Next 13, TRPC, Webassembly
   - 🔧 Systems: Rust, RISC-V, Vulkan, Boost
-  - 🤖 AI: Caffe, Vector Databases, Polars
+  - 🤖 AI: Caffe, Vector Databases, Mojo
 - 📫 How to reach me:
   - Email: frankla0203@outlook.com
   - LinkedIn: www.linkedin.com/in/anglifrank
